@@ -3,7 +3,7 @@
  */
 import java.util.ArrayList;
 import java.util.List;
-@SuppressWarnings("all")
+@SuppressWarnings("unchecked")
 public class Author extends Person {
     private List books;
 
